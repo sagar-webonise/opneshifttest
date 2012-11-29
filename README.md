@@ -1,0 +1,4 @@
+opneshifttest
+=============
+
+testing openshift
